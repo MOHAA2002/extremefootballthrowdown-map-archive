@@ -1,0 +1,7 @@
+A map made in ten seconds for the Extreme Football Throwdown gamemode.
+Features:
+football
+ambient warfare
+death pit
+
+Also probably works in sandbox but why would you bother

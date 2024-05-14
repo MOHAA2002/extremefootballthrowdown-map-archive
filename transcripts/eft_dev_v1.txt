@@ -1,0 +1,10 @@
+For use of the Extreme Football Throwdown gamemode by JetBoom
+Download: https://github.com/JetBoom/extremefootballthrowdown/
+
+A sky map for EFT because everyone loves sky maps.
+
+Notes:
+-Map layout started by Madden, finished by me.
+-Players spawn inside the glass domes, which gets them right to the ballspawn quickly.
+-Goals are stationary spheres in the air, score by throwing the ball at the sphere.
+-2 Speedball power-ups, lasting 6 seconds.

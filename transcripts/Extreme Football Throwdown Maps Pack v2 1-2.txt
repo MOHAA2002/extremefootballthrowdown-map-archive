@@ -1,0 +1,42 @@
+MAPS NOT MADE BY ME!
+
+Update April 20 2017
+I just realized there is a new eft_soccer map version in the workshop, so i removed it and put a link in the description
+
+Update May 30 2015
+New preview icons with higer quality, updated some maps, re-added eft_spacejump_b3 by request
+Removed eft_spacejump_b3 due there is now a workshop version with the updated version
+You will find the link on the list of updated maps bellow
+
+1st part of the updated pack of the maps
+
+Map icons are included on this pack
+
+Download the 2nd part http://steamcommunity.com/sharedfiles/filedetails/?id=430049351
+
+This contains the default maps from EFT, ecept some are updated
+
+This pack contains
+
+- eft_albino
+- eft_big_metal03r1
+- eft_chamber
+- eft_sky_metal_beta3
+- eft_temple_sacrifice_rc
+- eft_tunnel
+- eft_turbines_v2
+- xtf_minecraftv2 (AKA, the original minecraft map from the original map pack)
+- xtf_skyline_v2
+
+The following maps contains the updated ones
+
+- eft_bloodbowl_v3 (NEW)
+- eft_brokenbonesbridge_v2
+- eft_coconutclub_01fixed
+- eft_handegg_v3 (NEW)
+- eft_skystep_v4
+- eft_soccer_b4 this map is now on the workshop, click the map name to go and suscribe it
+- eft_spacejump_v1 this map is now on the workshop, click the map name to go and suscribe it
+- eft_spacejump_b3 (Re-added by request)
+
+Enjoy this map pack for your EFT server, dont forget to give me credits if you host with this

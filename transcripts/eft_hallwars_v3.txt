@@ -1,0 +1,13 @@
+***map contains rapid, strobing lights***
+
+For use of the Extreme Football Throwdown gamemode by JetBoom (Download: https://github.com/JetBoom/extremefootballthrowdown/ )
+
+A linear raving hallway which gurantees cluster♥♥♥♥s
+
+Map Notes:
+- Takes place in a small, futuristic hallway with strobing lights and neat beats to gurantee a nifty experience
+- Based off a custom Halo Reach map of the same name
+- Contains a neon arsenal of weaponry (melons, missiles, logs, and beatdown sticks)
+- Spinning cubes that randomly cycle between every powerup (speed, blitz, magnet, ice, score, and feather). Water ball not included for obvious reasons
+- Everything that is glass in this map can be broken with explosives/wands
+- Endzones are at the end of the hall

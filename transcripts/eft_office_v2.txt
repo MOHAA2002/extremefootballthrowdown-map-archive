@@ -1,0 +1,10 @@
+For use of the Extreme Football Throwdown gamemode by JetBoom
+Download: https://github.com/JetBoom/extremefootballthrowdown/
+
+An office themed map for EFT.
+
+Features:
+-Players must retrieve the ball from the upper level, going up the staircases.
+-Speedball is located in the yellow coated hallways on both sides of the map (Lasts for 6.5 seconds).
+-2 goals: You can either walk into the enemy's room and sit on the boss's chair or go outside and make a well aimed shot through the moving ring for 2 points.
+-Inside the teams' goal rooms there are open windows where teammates can pass from the outside areas for a well-aimed pass, or for a reset by the defending teams.

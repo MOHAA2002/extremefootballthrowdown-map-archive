@@ -1,0 +1,13 @@
+Map made for Extreme Football Throwdown.
+
+The gamemode can be found here.
+
+Official Server: connect eft.noxiousnet.com:27015
+
+Map Notes:
+- Water Ball lasts 25 seconds.
+- Mix of Sky Step and Space Jump, except has run in goals.
+- Large pathways for long distance throws.
+- Jump pads to take you side to side.
+- Teleporters, use the teleporter corresponding to your team color, using an opponent's teleporter will kill you, they also reset the ball.
+- Thanks to dissident for tips and doing the 3-D skybox.

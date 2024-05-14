@@ -1,0 +1,13 @@
+Map made for Extreme Football Throwdown.
+
+The gamemode can be found here.
+
+Official Server: connect eft.noxiousnet.com:27015
+
+Map Notes:
+- Odd island map, with plenty of assorted trees to make up for empty space.
+- Speed Ball lasts 10 seconds, can be activated by running into the yellow sprite.
+- Players spawn on pirate ships. Jump down into the water and swim to the coast to get to the main playing area.
+- Difficult throw in touchdowns that should seem familiar.
+- Pirate ships taken from ze_potc, I removed unneeded parts, and changed some textures around.
+- Of course thanks to dissident for helping out.

@@ -1,0 +1,13 @@
+Map made for Extreme Football Throwdown.
+
+The gamemode can be found here.
+
+Official Server: connect eft.noxiousnet.com:27015
+
+Map Notes:
+- Colosseum map, Based off Arena in Chivalry.
+- Speed Ball lasts 4 seconds, can be activated by running into the yellow sprite.
+- Doors, similar to Castle Warfare.
+- Run in touchdowns.
+- Colosseum itself taken from gm_colosseum, I added the parts within it and the lower level.
+- Thanks to dissident for helping improve the map.

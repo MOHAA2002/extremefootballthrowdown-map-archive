@@ -1,0 +1,27 @@
+For use of the Extreme Football Throwdown gamemode by JetBoom
+
+Another scoreball map, should look familiar to a lot of people.
+
+Notes:
+
+*Map takes place in a small, eerie, abandoned industrial area.
+*Layout is heavily based off ctf_2fort from Team Fortress 2, with some changes.
+*Map includes 3 levels of gameplay. (Upper & Ground level, along with the underground area)
+*Scoreball lasts for 65 seconds, and if not picked up at the end of the timer, will be re-activated for 15 seconds.
+
+logic_norandomweapons is also used on this map, the following weapons include (# represents seconds to spawn):
+
+At Spawn:
+*5 melons
+*1 booze bottle
+*1 beatdown stick
+
+2nd Level:
+*1 Mower Trap (30)
+*1 Arcane wand (30)
+
+Underground:
+*1 Big Pole (30)
+
+Under Ballspawn:
+*1 Nitro Barrel (45)

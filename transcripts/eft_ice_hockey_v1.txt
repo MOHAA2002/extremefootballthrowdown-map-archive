@@ -1,0 +1,13 @@
+Map made for Extreme Football Throwdown.
+
+The gamemode can be found here.
+
+Official Server: connect eft.noxiousnet.com:27015
+
+Map Notes:
+- Map features 5 Ice Balls Powerup Areas, each lasting 7 seconds, which can be accessed running or throwing the ball into the face-off spots.
+- The stands offer multiple Speed Ball Powerup Areas, each lasting 3.5 seconds, they are meant to be stacked together, or to get a quick throw off.
+- The map is relaively small in size (you can score from any given point if you take advantage of the ice ball powerups), so goalies are needed to balance it out.
+- Includes some upbeat music and a scoreboard.
+- Map originally made by SligWolf, I changed some things around so it was compatible with EFT.
+- Thanks to dissident, Verctexius, and ritzbits for help.

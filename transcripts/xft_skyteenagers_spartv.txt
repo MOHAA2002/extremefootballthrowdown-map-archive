@@ -1,0 +1,20 @@
+If You Find a issue you can write here:
+Если вы нашли ошибку напишите её здесь:
+https://github.com/GitSparTV/RepositSparTV/issues
+____________________________
+
+ENG |||
+
+First Map For Extreme Football Throwdown. He have a small bonus with a buttons,
+
+RUS |||
+Моя первая карта для Extreme Football Throwdown . Она имеет маленький бонус с кнопками.
+
+__________________
+Updates | Обновления
+-------------------------------------------------------------------------------------------------------------------------------------------------
+All Updates ||| Все обновления - https://github.com/GitSparTV/RepositSparTV/blob/master/SkyTeenagersUpdateLog
+------------------------------------------------------------------------------------------------------------------------------
+V.1.0
+
+1. Map Created ||| Карта создана

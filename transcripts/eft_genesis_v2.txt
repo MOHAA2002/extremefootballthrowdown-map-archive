@@ -1,0 +1,14 @@
+Map made for Extreme Football Throwdown.
+
+The gamemode can be found here.
+
+Official Server: connect eft.noxiousnet.com:27015
+
+Map Notes:
+- Space map based off Sky Step.
+- 10 second Speedball at ballspawn that can be accessed from both the top level and main level.
+- 10 second Magnetball that can be activated by running through the green screens.
+- Double ring goals, you only need to get through the colored ring for it to count though.
+- Plenty of shooting locations.
+- Most of the textures were taken from de_star, credit goes to Verctexius for recoloring them.
+- Thanks to dissident for helping improve the map.

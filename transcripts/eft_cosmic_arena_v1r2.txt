@@ -1,0 +1,8 @@
+Note: This map for the Garry's Mod gamemode Extreme Football Throwdown was primarily designed by Xeon897, but features some changes, edits, and suggestions by myself. The map is thematically a brother to Space Jump, but plays like a mashup between Miniput and Bloodbowl. (Workshop logo made by Verctexius)
+
+Features:
+*Ice Ball power up (first time in an EFT map)
+*Speed Ball power ups (last 2 seconds each, as they are meant to be chained together)
+*Ball spawn similar to Temple Sacrifice, but having two levels in which the ball can be recovered (This seems to be broken though, will fix it in a later update)
+*A ring that doesn't spin, but goes from left to right, and is worth 2 points. Good luck trying to get this with a swarm attempting to stop you.
+*Cheesy space synth music ~ Space Debris [Spacesynth Remix] by Markus "Captain" Kaarlonen https://youtu.be/SjgnGw1kXOs

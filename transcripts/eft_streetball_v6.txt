@@ -1,0 +1,9 @@
+For use of the "Extreme Football Throwdown" gamemode by JetBoom (DOWNLOAD): https://github.com/JetBoom/extremefootballthrowdown
+
+City themed map for EFT
+
+Features:
+-Touchdowns are the spinning rings inside the teams' color coated buildings. Walk inside and look up and throw the ball in, or place a well aimed shot from the open window.
+-Many cars and buildings to use to your advantage
+-Two tunnels that connect the red and blue buildings. Includes a 9 second speed-ball powerup in the middle of the tunnels.
+-15 second blitzball powerup located at the black building

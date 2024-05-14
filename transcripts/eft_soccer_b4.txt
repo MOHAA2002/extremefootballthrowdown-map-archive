@@ -1,0 +1,3 @@
+Current version eft_soccer_b4
+
+Play the Extreme Football Throwdown game mode on a regulation size soccer pitch.

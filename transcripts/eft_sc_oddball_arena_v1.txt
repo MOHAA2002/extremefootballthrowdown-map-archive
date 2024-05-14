@@ -1,0 +1,10 @@
+For use of the Extreme Football Throwdown gamemode by JetBoom
+
+A map with a different concept compared to the rest of the EFT maps.
+
+Notes:
+
+*Instead of the typical endzones and rings, the map uses a minute and 45 second score-ball powerup. (Hold the ball at the end to score.)
+*Uses logic_norandomweapons, with pre-set weapon spawns
+*Map layout is a mix of Handegg and Ice Hockey, roughly 3/4 the size of Handegg, with 2 levels.
+*If nobody is holding the ball at the end of the powerup timer, then it will re-activate for 15 seconds.

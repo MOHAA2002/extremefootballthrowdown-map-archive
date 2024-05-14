@@ -1,0 +1,12 @@
+Map made for Extreme Football Throwdown.
+
+The gamemode can be found here.
+
+Official Server: connect eft.noxiousnet.com:27015
+
+Map Notes:
+- Water Ball on the side areas, lasting 12 seconds.
+- Speed Ball on the lower level, lasting 5 seconds.
+- Ring goals.
+- Wave sounds.
+- Thanks to Verctexius for making some custom textures.

@@ -1,0 +1,8 @@
+An edit of the official map "eft_coconutclub_01".
+-Changed/added textures, map sound, decals, ball spawn area etc.
+
+Update#1:
+-changed some textures
+-changed skybox
+-changed enviromental lightning concept
+-added essential decorations

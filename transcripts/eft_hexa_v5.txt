@@ -1,0 +1,12 @@
+Map made for Extreme Football Throwdown.
+
+The gamemode can be found here.
+
+Official Server: connect eft.noxiousnet.com:27015
+
+Map Notes:
+- Map sports a futuristic hologram theme.
+- Speed Ball rings next to the ball spawn, each lasting 7.5 seconds.
+- Features 2 ways to score, a throw in and a run in.
+- Has jump pads to take you around the map, they also could be used to bunny hop.
+- Map originally made by Limesta, updated by dissident, followed by myself.
